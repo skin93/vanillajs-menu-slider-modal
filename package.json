@@ -1,0 +1,24 @@
+{
+  "name": "menu-slider-modal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skin93/vanillajs-menu-slider-modal.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://skin93.github.io/menu-slider-modal",
+  "bugs": {
+    "url": "https://github.com/skin93/vanillajs-menu-slider-modal/issues"
+  },
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
